@@ -1,2 +1,2 @@
 # Ballon_D_or
-Fotball players PostgreSQL database with statistics and information over time and Spring Boot backend to support training of PyTorch neural networks using scarpped data from FBREF https://fbref.com/en/, collected by https://github.com/JaseZiv/worldfootballR_data
+A comprehensive PostgreSQL database containing historical statistics and information on football players, integrated with a Spring Boot backend to facilitate the training of PyTorch neural networks. Data is sourced from [FBREF](https://fbref.com/en/) and collected via the [worldfootballR_data repository](https://github.com/JaseZiv/worldfootballR_data). All data is used exclusively for educational purposes.
